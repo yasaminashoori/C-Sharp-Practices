@@ -1,0 +1,13 @@
+C:\Users\asus\OneDrive\Desktop\C-Sharp-Exer\Input\bin\Debug\netcoreapp3.1\Input.exe
+C:\Users\asus\OneDrive\Desktop\C-Sharp-Exer\Input\bin\Debug\netcoreapp3.1\Input.deps.json
+C:\Users\asus\OneDrive\Desktop\C-Sharp-Exer\Input\bin\Debug\netcoreapp3.1\Input.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\C-Sharp-Exer\Input\bin\Debug\netcoreapp3.1\Input.runtimeconfig.dev.json
+C:\Users\asus\OneDrive\Desktop\C-Sharp-Exer\Input\bin\Debug\netcoreapp3.1\Input.dll
+C:\Users\asus\OneDrive\Desktop\C-Sharp-Exer\Input\bin\Debug\netcoreapp3.1\Input.pdb
+C:\Users\asus\OneDrive\Desktop\C-Sharp-Exer\Input\obj\Debug\netcoreapp3.1\Input.csprojAssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\C-Sharp-Exer\Input\obj\Debug\netcoreapp3.1\Input.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\C-Sharp-Exer\Input\obj\Debug\netcoreapp3.1\Input.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\C-Sharp-Exer\Input\obj\Debug\netcoreapp3.1\Input.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\C-Sharp-Exer\Input\obj\Debug\netcoreapp3.1\Input.dll
+C:\Users\asus\OneDrive\Desktop\C-Sharp-Exer\Input\obj\Debug\netcoreapp3.1\Input.pdb
+C:\Users\asus\OneDrive\Desktop\C-Sharp-Exer\Input\obj\Debug\netcoreapp3.1\Input.genruntimeconfig.cache
