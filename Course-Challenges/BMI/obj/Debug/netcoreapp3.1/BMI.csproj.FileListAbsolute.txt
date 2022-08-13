@@ -1,0 +1,13 @@
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\BMI\obj\Debug\netcoreapp3.1\BMI.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\BMI\obj\Debug\netcoreapp3.1\BMI.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\BMI\obj\Debug\netcoreapp3.1\BMI.AssemblyInfo.cs
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\BMI\obj\Debug\netcoreapp3.1\BMI.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\BMI\bin\Debug\netcoreapp3.1\BMI.exe
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\BMI\bin\Debug\netcoreapp3.1\BMI.deps.json
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\BMI\bin\Debug\netcoreapp3.1\BMI.runtimeconfig.json
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\BMI\bin\Debug\netcoreapp3.1\BMI.runtimeconfig.dev.json
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\BMI\bin\Debug\netcoreapp3.1\BMI.dll
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\BMI\bin\Debug\netcoreapp3.1\BMI.pdb
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\BMI\obj\Debug\netcoreapp3.1\BMI.dll
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\BMI\obj\Debug\netcoreapp3.1\BMI.pdb
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\BMI\obj\Debug\netcoreapp3.1\BMI.genruntimeconfig.cache

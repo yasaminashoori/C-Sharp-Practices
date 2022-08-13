@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asus\\OneDrive\\Desktop\\C-Sharp-Exer\\Pythagoras-Theorem\\fisaghoresLaw.csproj": {}
+    "C:\\Users\\asus\\Desktop\\C-Sharp-Practices\\Course-Challenges\\Pythagoras-Theorem\\fisaghoresLaw.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asus\\OneDrive\\Desktop\\C-Sharp-Exer\\Pythagoras-Theorem\\fisaghoresLaw.csproj": {
+    "C:\\Users\\asus\\Desktop\\C-Sharp-Practices\\Course-Challenges\\Pythagoras-Theorem\\fisaghoresLaw.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\OneDrive\\Desktop\\C-Sharp-Exer\\Pythagoras-Theorem\\fisaghoresLaw.csproj",
+        "projectUniqueName": "C:\\Users\\asus\\Desktop\\C-Sharp-Practices\\Course-Challenges\\Pythagoras-Theorem\\fisaghoresLaw.csproj",
         "projectName": "fisaghoresLaw",
-        "projectPath": "C:\\Users\\asus\\OneDrive\\Desktop\\C-Sharp-Exer\\Pythagoras-Theorem\\fisaghoresLaw.csproj",
+        "projectPath": "C:\\Users\\asus\\Desktop\\C-Sharp-Practices\\Course-Challenges\\Pythagoras-Theorem\\fisaghoresLaw.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\OneDrive\\Desktop\\C-Sharp-Exer\\Pythagoras-Theorem\\obj\\",
+        "outputPath": "C:\\Users\\asus\\Desktop\\C-Sharp-Practices\\Course-Challenges\\Pythagoras-Theorem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -50,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.421\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.422\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -11,3 +11,16 @@ C:\Users\asus\OneDrive\Desktop\C-Sharp-Exer\Type-Casting\obj\Debug\netcoreapp3.1
 C:\Users\asus\OneDrive\Desktop\C-Sharp-Exer\Type-Casting\obj\Debug\netcoreapp3.1\Type-Casting.dll
 C:\Users\asus\OneDrive\Desktop\C-Sharp-Exer\Type-Casting\obj\Debug\netcoreapp3.1\Type-Casting.pdb
 C:\Users\asus\OneDrive\Desktop\C-Sharp-Exer\Type-Casting\obj\Debug\netcoreapp3.1\Type-Casting.genruntimeconfig.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Type-Casting\bin\Debug\netcoreapp3.1\Type-Casting.exe
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Type-Casting\bin\Debug\netcoreapp3.1\Type-Casting.deps.json
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Type-Casting\bin\Debug\netcoreapp3.1\Type-Casting.runtimeconfig.json
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Type-Casting\bin\Debug\netcoreapp3.1\Type-Casting.runtimeconfig.dev.json
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Type-Casting\bin\Debug\netcoreapp3.1\Type-Casting.dll
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Type-Casting\bin\Debug\netcoreapp3.1\Type-Casting.pdb
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Type-Casting\obj\Debug\netcoreapp3.1\Type-Casting.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Type-Casting\obj\Debug\netcoreapp3.1\Type-Casting.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Type-Casting\obj\Debug\netcoreapp3.1\Type-Casting.AssemblyInfo.cs
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Type-Casting\obj\Debug\netcoreapp3.1\Type-Casting.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Type-Casting\obj\Debug\netcoreapp3.1\Type-Casting.dll
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Type-Casting\obj\Debug\netcoreapp3.1\Type-Casting.pdb
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Type-Casting\obj\Debug\netcoreapp3.1\Type-Casting.genruntimeconfig.cache

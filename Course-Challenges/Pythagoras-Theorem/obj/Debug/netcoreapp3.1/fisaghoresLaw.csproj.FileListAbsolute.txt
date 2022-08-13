@@ -37,3 +37,16 @@ C:\Users\asus\OneDrive\Desktop\C-Sharp-Exer\Pythagoras-Theorem\obj\Debug\netcore
 C:\Users\asus\OneDrive\Desktop\C-Sharp-Exer\Pythagoras-Theorem\obj\Debug\netcoreapp3.1\fisaghoresLaw.dll
 C:\Users\asus\OneDrive\Desktop\C-Sharp-Exer\Pythagoras-Theorem\obj\Debug\netcoreapp3.1\fisaghoresLaw.pdb
 C:\Users\asus\OneDrive\Desktop\C-Sharp-Exer\Pythagoras-Theorem\obj\Debug\netcoreapp3.1\fisaghoresLaw.genruntimeconfig.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Pythagoras-Theorem\bin\Debug\netcoreapp3.1\fisaghoresLaw.exe
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Pythagoras-Theorem\bin\Debug\netcoreapp3.1\fisaghoresLaw.deps.json
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Pythagoras-Theorem\bin\Debug\netcoreapp3.1\fisaghoresLaw.runtimeconfig.json
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Pythagoras-Theorem\bin\Debug\netcoreapp3.1\fisaghoresLaw.runtimeconfig.dev.json
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Pythagoras-Theorem\bin\Debug\netcoreapp3.1\fisaghoresLaw.dll
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Pythagoras-Theorem\bin\Debug\netcoreapp3.1\fisaghoresLaw.pdb
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Pythagoras-Theorem\obj\Debug\netcoreapp3.1\fisaghoresLaw.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Pythagoras-Theorem\obj\Debug\netcoreapp3.1\fisaghoresLaw.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Pythagoras-Theorem\obj\Debug\netcoreapp3.1\fisaghoresLaw.AssemblyInfo.cs
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Pythagoras-Theorem\obj\Debug\netcoreapp3.1\fisaghoresLaw.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Pythagoras-Theorem\obj\Debug\netcoreapp3.1\fisaghoresLaw.dll
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Pythagoras-Theorem\obj\Debug\netcoreapp3.1\fisaghoresLaw.pdb
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Pythagoras-Theorem\obj\Debug\netcoreapp3.1\fisaghoresLaw.genruntimeconfig.cache

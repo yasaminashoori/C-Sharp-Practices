@@ -8,17 +8,16 @@ namespace fisaghoresLaw
         {
             Console.WriteLine("Enter your side A : ");
 
-            int firstNumber = Convert.ToInt32(Console.ReadLine());
+            var firstNumber = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Enter your side B : ");
             
-            int secondNumber = Convert.ToInt32(Console.ReadLine());
+            var secondNumber = Convert.ToInt32(Console.ReadLine());
 
 
-            double pythagoras = Math.Sqrt(firstNumber * firstNumber + secondNumber * secondNumber);
+            var pythagoras = Math.Sqrt(firstNumber * firstNumber + secondNumber * secondNumber);
 
             Console.WriteLine($"your result is : {pythagoras}");
-
 
 
         }

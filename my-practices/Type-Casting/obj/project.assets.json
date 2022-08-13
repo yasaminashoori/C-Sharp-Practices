@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus\\OneDrive\\Desktop\\C-Sharp-Exer\\Type-Casting\\Type-Casting.csproj",
+      "projectUniqueName": "C:\\Users\\asus\\Desktop\\C-Sharp-Practices\\my-practices\\Type-Casting\\Type-Casting.csproj",
       "projectName": "Type-Casting",
-      "projectPath": "C:\\Users\\asus\\OneDrive\\Desktop\\C-Sharp-Exer\\Type-Casting\\Type-Casting.csproj",
+      "projectPath": "C:\\Users\\asus\\Desktop\\C-Sharp-Practices\\my-practices\\Type-Casting\\Type-Casting.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asus\\OneDrive\\Desktop\\C-Sharp-Exer\\Type-Casting\\obj\\",
+      "outputPath": "C:\\Users\\asus\\Desktop\\C-Sharp-Practices\\my-practices\\Type-Casting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -56,7 +56,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.421\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.422\\RuntimeIdentifierGraph.json"
       }
     }
   }
