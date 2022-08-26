@@ -8,40 +8,48 @@ namespace TV_Control_Simulator
         {
 
 
-           
-            int numberChannel = 0;
-            numberChannel = ++numberChannel;
-            bool favChannel = true;
+            var channelNumber = 1;
+            string selectedChannel = null;
+
             do
             {
-                Console.WriteLine($"do you like {numberChannel} channel ? yes or no");
-                var answer = Console.ReadLine();
-                if (answer == "yes")
-                {
-                    Console.WriteLine("stay on this channel! enjoy :)");
-                }
+                Console.WriteLine($"Do you like channel number {channelNumber++}? yes/no");
+                selectedChannel = Console.ReadLine();
+                // channelNumber++;
+            } while (selectedChannel == "no");
 
-                else if (answer == "no")
-                {
-                    Console.WriteLine("do you like this channel ? yes or no");
-                    var answerSecond = Console.ReadLine();
 
-                    while (answerSecond == "no")
-                    {
+            var favourite = selectedChannel == "yes" ? true : false;
 
-                        numberChannel = ++numberChannel;
-                        Console.WriteLine($"we are on channel: {numberChannel}");
-                        Console.WriteLine("do you like this channel ? yes or no");
-                        Console.ReadLine();
-                        if (answerSecond == "yes")
-                            break;
-                    }
-
-                }
-
+            if (favourite)
+            {
+                Console.WriteLine($"channel {channelNumber - 1} added to your favourite! enjoy ^-^");
             }
 
-            while (favChannel == "yes");
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
         }
