@@ -60,7 +60,7 @@ namespace roman_number
 
             for (int romanCounter = 0; romanCounter < romanInput.Length ; romanCounter++)
             {
-                 int s1 = (romanInput[romanCounter]);
+                //  int s1 = (romanInput[romanCounter]);
             }
 
 

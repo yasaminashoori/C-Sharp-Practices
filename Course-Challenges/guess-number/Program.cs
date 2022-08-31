@@ -31,10 +31,7 @@ namespace guess_number
 
 
 
-            if (guessNumber < (10 && 20) && (30 && 40) && 50)
-            {
-                
-            }
+            
 
             
         }
