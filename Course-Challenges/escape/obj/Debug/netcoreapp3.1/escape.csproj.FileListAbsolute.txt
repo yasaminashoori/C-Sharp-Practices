@@ -1,0 +1,13 @@
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\escape\bin\Debug\netcoreapp3.1\escape.exe
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\escape\bin\Debug\netcoreapp3.1\escape.deps.json
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\escape\bin\Debug\netcoreapp3.1\escape.runtimeconfig.json
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\escape\bin\Debug\netcoreapp3.1\escape.runtimeconfig.dev.json
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\escape\bin\Debug\netcoreapp3.1\escape.dll
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\escape\bin\Debug\netcoreapp3.1\escape.pdb
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\escape\obj\Debug\netcoreapp3.1\escape.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\escape\obj\Debug\netcoreapp3.1\escape.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\escape\obj\Debug\netcoreapp3.1\escape.AssemblyInfo.cs
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\escape\obj\Debug\netcoreapp3.1\escape.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\escape\obj\Debug\netcoreapp3.1\escape.dll
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\escape\obj\Debug\netcoreapp3.1\escape.pdb
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\escape\obj\Debug\netcoreapp3.1\escape.genruntimeconfig.cache

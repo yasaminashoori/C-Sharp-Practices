@@ -1,0 +1,13 @@
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Days-of-week\obj\Debug\netcoreapp3.1\Days-of-week.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Days-of-week\obj\Debug\netcoreapp3.1\Days-of-week.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Days-of-week\obj\Debug\netcoreapp3.1\Days-of-week.AssemblyInfo.cs
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Days-of-week\obj\Debug\netcoreapp3.1\Days-of-week.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Days-of-week\bin\Debug\netcoreapp3.1\Days-of-week.exe
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Days-of-week\bin\Debug\netcoreapp3.1\Days-of-week.deps.json
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Days-of-week\bin\Debug\netcoreapp3.1\Days-of-week.runtimeconfig.json
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Days-of-week\bin\Debug\netcoreapp3.1\Days-of-week.runtimeconfig.dev.json
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Days-of-week\bin\Debug\netcoreapp3.1\Days-of-week.dll
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Days-of-week\bin\Debug\netcoreapp3.1\Days-of-week.pdb
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Days-of-week\obj\Debug\netcoreapp3.1\Days-of-week.dll
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Days-of-week\obj\Debug\netcoreapp3.1\Days-of-week.pdb
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Days-of-week\obj\Debug\netcoreapp3.1\Days-of-week.genruntimeconfig.cache
