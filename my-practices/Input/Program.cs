@@ -17,6 +17,9 @@ namespace Input
 
             Console.WriteLine("your result1 is " + result1 + "and result2 is " + result2);
 
+            string input = Console.ReadLine();
+            double result3 = Convert.ToInt32(input);
+
         }
     }
 }

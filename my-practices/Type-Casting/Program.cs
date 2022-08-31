@@ -9,9 +9,9 @@ namespace Type_Casting
 
             string adadString = "32";
             double mohit = Convert.ToDouble(adadString);
-            Console.WriteLine(mohit);
-            // we can (until now) convert 32.3 in string format to double
-
+            Console.WriteLine(mohit.GetType());
+            // in the above exercise we can't convert 32.3 in string format to double
+            
             string stringAge = "23";
             int age = Convert.ToInt32(stringAge);
             Console.WriteLine(age.GetType());
@@ -21,13 +21,20 @@ namespace Type_Casting
             Console.WriteLine(status);
             // // we can convert string to boolean
 
-            int x = 12;
-            double y = 12.564;
-            y = x;
-            Console.WriteLine(y);
+            // explicit type casting
+            int first = 12;
+            double second = 12.564;
+            second = first;
+            Console.WriteLine(second);
 
+            // explicit type casting using convert method
             double h = Convert.ToDouble("200");
             Console.WriteLine(h);
+
+            // explicit type casting without using convert.to method
+            int x = 12;
+            double y = 14.656;
+            y = (int) x;
 
         }
     }

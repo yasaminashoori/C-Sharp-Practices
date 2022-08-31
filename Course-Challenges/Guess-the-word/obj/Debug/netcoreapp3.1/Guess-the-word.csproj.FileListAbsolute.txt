@@ -1,0 +1,13 @@
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Guess-the-word\bin\Debug\netcoreapp3.1\Guess-the-word.exe
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Guess-the-word\bin\Debug\netcoreapp3.1\Guess-the-word.deps.json
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Guess-the-word\bin\Debug\netcoreapp3.1\Guess-the-word.runtimeconfig.json
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Guess-the-word\bin\Debug\netcoreapp3.1\Guess-the-word.runtimeconfig.dev.json
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Guess-the-word\bin\Debug\netcoreapp3.1\Guess-the-word.dll
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Guess-the-word\bin\Debug\netcoreapp3.1\Guess-the-word.pdb
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Guess-the-word\obj\Debug\netcoreapp3.1\Guess-the-word.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Guess-the-word\obj\Debug\netcoreapp3.1\Guess-the-word.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Guess-the-word\obj\Debug\netcoreapp3.1\Guess-the-word.AssemblyInfo.cs
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Guess-the-word\obj\Debug\netcoreapp3.1\Guess-the-word.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Guess-the-word\obj\Debug\netcoreapp3.1\Guess-the-word.dll
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Guess-the-word\obj\Debug\netcoreapp3.1\Guess-the-word.pdb
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Guess-the-word\obj\Debug\netcoreapp3.1\Guess-the-word.genruntimeconfig.cache
