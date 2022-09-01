@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus\\Desktop\\C-Sharp-Practices\\Course-Challenges\\guess-number\\guess-number.csproj",
-      "projectName": "guess-number",
-      "projectPath": "C:\\Users\\asus\\Desktop\\C-Sharp-Practices\\Course-Challenges\\guess-number\\guess-number.csproj",
+      "projectUniqueName": "C:\\Users\\asus\\Desktop\\C-Sharp-Practices\\Course-Challenges\\Guess-the-number\\Guess-the-word.csproj",
+      "projectName": "Guess-the-word",
+      "projectPath": "C:\\Users\\asus\\Desktop\\C-Sharp-Practices\\Course-Challenges\\Guess-the-number\\Guess-the-word.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asus\\Desktop\\C-Sharp-Practices\\Course-Challenges\\guess-number\\obj\\",
+      "outputPath": "C:\\Users\\asus\\Desktop\\C-Sharp-Practices\\Course-Challenges\\Guess-the-number\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
