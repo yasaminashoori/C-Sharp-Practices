@@ -12,9 +12,10 @@ namespace stringMethods
 
             // var result = myString.ToUpper();
             // var result = myString.Replace("-", "@");
-            var result = myString.Insert(0, "@");
-
-            
+            // var result = myString.Insert(0, "@");
+            // var result = myString.Substring(0, 4);
+            // var result = myString.Substring(6);
+            var result = myString.Length;
             Console.WriteLine(result);
             
         }

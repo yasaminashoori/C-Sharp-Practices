@@ -38,8 +38,10 @@ namespace Guess_the_word
             Console.WriteLine($"{numberRound} Rounds");
 
             Console.WriteLine("Do you want to play again ? Yes/ No");
-            var answer = Console.ReadLine();
-            againPlay = answer.ToUpper() == "Yes";
+            var answer = Console.ReadLine().ToUpper();
+            againPlay = answer.ToUpper() == "YES";
+
+
 
             if (againPlay == true)
             {
@@ -67,7 +69,7 @@ namespace Guess_the_word
                 Console.WriteLine("Well done! The answer was " + randomNumber);
                 Console.WriteLine($"{numberRound} Rounds");
             }
-            
+
             else
             {
                 Console.WriteLine("Thank you for playing ^-^");
