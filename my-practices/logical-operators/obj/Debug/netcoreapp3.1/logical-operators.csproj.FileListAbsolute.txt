@@ -1,0 +1,13 @@
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\logical-operators\bin\Debug\netcoreapp3.1\logical-operators.exe
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\logical-operators\bin\Debug\netcoreapp3.1\logical-operators.deps.json
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\logical-operators\bin\Debug\netcoreapp3.1\logical-operators.runtimeconfig.json
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\logical-operators\bin\Debug\netcoreapp3.1\logical-operators.runtimeconfig.dev.json
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\logical-operators\bin\Debug\netcoreapp3.1\logical-operators.dll
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\logical-operators\bin\Debug\netcoreapp3.1\logical-operators.pdb
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\logical-operators\obj\Debug\netcoreapp3.1\logical-operators.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\logical-operators\obj\Debug\netcoreapp3.1\logical-operators.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\logical-operators\obj\Debug\netcoreapp3.1\logical-operators.AssemblyInfo.cs
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\logical-operators\obj\Debug\netcoreapp3.1\logical-operators.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\logical-operators\obj\Debug\netcoreapp3.1\logical-operators.dll
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\logical-operators\obj\Debug\netcoreapp3.1\logical-operators.pdb
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\logical-operators\obj\Debug\netcoreapp3.1\logical-operators.genruntimeconfig.cache

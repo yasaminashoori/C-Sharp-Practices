@@ -6,74 +6,48 @@ namespace Guess_the_word
     {
         static void Main(string[] args)
         {
-            Random random = new Random();
 
-            int randomNumber = random.Next(1, 100);
 
-            int inputGuess = 0;
+            int min = 1;
 
-            int numberRound = 0;
+            int max = 100;
 
-            Boolean againPlay = true;
+            bool againPlay = true;
 
-            Console.WriteLine("Hi ! in this game you should guess the random generated number. good luck :)");
-            Console.WriteLine("Guess a number between 1 - 100 :");
-
-            while (inputGuess != randomNumber)
+            Random random2 = new Random();
+            do
             {
-                inputGuess = Convert.ToInt32(Console.ReadLine());
 
-                if (inputGuess < randomNumber)
-                {
-                    Console.WriteLine(inputGuess + "is too low! guess another number :");
-                }
-                else if (inputGuess > randomNumber)
-                {
-                    Console.WriteLine(inputGuess + "is too high! guess another number :");
-                }
-                numberRound++;
-            }
+                int inputGuess2 = 0;
+                int numberRound2 = 0;
+                int randomNumber2 = random2.Next(min, max + 1);
 
-            Console.WriteLine("Well done! The answer was " + randomNumber);
-            Console.WriteLine($"{numberRound} Rounds");
-
-            Console.WriteLine("Do you want to play again ? Yes/ No");
-            var answer = Console.ReadLine().ToUpper();
-            againPlay = answer.ToUpper() == "YES";
-
-
-
-            if (againPlay == true)
-            {
-                do
+                while (inputGuess2 != randomNumber2)
                 {
                     Console.WriteLine("Guess a number between 1 - 100 :");
-                    Console.ReadLine();
-                    while (inputGuess != randomNumber)
+                    inputGuess2 = Convert.ToInt32(Console.ReadLine());
+
+                    if (inputGuess2 < randomNumber2)
                     {
-                        inputGuess = Convert.ToInt32(Console.ReadLine());
-
-                        if (inputGuess < randomNumber)
-                        {
-                            Console.WriteLine(inputGuess + "is too low! guess another number :");
-                        }
-                        else if (inputGuess > randomNumber)
-                        {
-                            Console.WriteLine(inputGuess + "is too high! guess another number :");
-                        }
-                        numberRound++;
+                        Console.WriteLine($"{inputGuess2} is too low! guess another number :");
                     }
+                    else if (inputGuess2 > randomNumber2)
+                    {
+                        Console.WriteLine(inputGuess2 + "is too high! guess another number :");
+                    }
+                    numberRound2++;
+                }
+                Console.WriteLine("Well done! The answer was " + randomNumber2);
+                Console.WriteLine($"{numberRound2} Rounds");
 
-                } while (!againPlay);
+                Console.WriteLine("Do you want to play again ? yes / no");
+                var answer = Console.ReadLine().ToUpper();
+                againPlay = answer.ToUpper() == "YES";
 
-                Console.WriteLine("Well done! The answer was " + randomNumber);
-                Console.WriteLine($"{numberRound} Rounds");
-            }
+            } while (againPlay);
 
-            else
-            {
-                Console.WriteLine("Thank you for playing ^-^");
-            }
+            Console.WriteLine("Thank you for playing :))");
+
 
         }
     }
