@@ -1,0 +1,13 @@
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\first-reverse\bin\Debug\netcoreapp3.1\first-reverse.exe
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\first-reverse\bin\Debug\netcoreapp3.1\first-reverse.deps.json
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\first-reverse\bin\Debug\netcoreapp3.1\first-reverse.runtimeconfig.json
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\first-reverse\bin\Debug\netcoreapp3.1\first-reverse.runtimeconfig.dev.json
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\first-reverse\bin\Debug\netcoreapp3.1\first-reverse.dll
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\first-reverse\bin\Debug\netcoreapp3.1\first-reverse.pdb
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\first-reverse\obj\Debug\netcoreapp3.1\first-reverse.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\first-reverse\obj\Debug\netcoreapp3.1\first-reverse.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\first-reverse\obj\Debug\netcoreapp3.1\first-reverse.AssemblyInfo.cs
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\first-reverse\obj\Debug\netcoreapp3.1\first-reverse.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\first-reverse\obj\Debug\netcoreapp3.1\first-reverse.dll
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\first-reverse\obj\Debug\netcoreapp3.1\first-reverse.pdb
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\first-reverse\obj\Debug\netcoreapp3.1\first-reverse.genruntimeconfig.cache

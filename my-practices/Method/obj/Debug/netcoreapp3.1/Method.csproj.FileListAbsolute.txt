@@ -1,0 +1,13 @@
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Method\bin\Debug\netcoreapp3.1\Method.exe
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Method\bin\Debug\netcoreapp3.1\Method.deps.json
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Method\bin\Debug\netcoreapp3.1\Method.runtimeconfig.json
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Method\bin\Debug\netcoreapp3.1\Method.runtimeconfig.dev.json
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Method\bin\Debug\netcoreapp3.1\Method.dll
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Method\bin\Debug\netcoreapp3.1\Method.pdb
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Method\obj\Debug\netcoreapp3.1\Method.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Method\obj\Debug\netcoreapp3.1\Method.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Method\obj\Debug\netcoreapp3.1\Method.AssemblyInfo.cs
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Method\obj\Debug\netcoreapp3.1\Method.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Method\obj\Debug\netcoreapp3.1\Method.dll
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Method\obj\Debug\netcoreapp3.1\Method.pdb
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Method\obj\Debug\netcoreapp3.1\Method.genruntimeconfig.cache

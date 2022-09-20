@@ -1,0 +1,13 @@
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\rock-paper-scissors\bin\Debug\netcoreapp3.1\rock-paper-scissors.exe
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\rock-paper-scissors\bin\Debug\netcoreapp3.1\rock-paper-scissors.deps.json
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\rock-paper-scissors\bin\Debug\netcoreapp3.1\rock-paper-scissors.runtimeconfig.json
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\rock-paper-scissors\bin\Debug\netcoreapp3.1\rock-paper-scissors.runtimeconfig.dev.json
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\rock-paper-scissors\bin\Debug\netcoreapp3.1\rock-paper-scissors.dll
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\rock-paper-scissors\bin\Debug\netcoreapp3.1\rock-paper-scissors.pdb
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\rock-paper-scissors\obj\Debug\netcoreapp3.1\rock-paper-scissors.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\rock-paper-scissors\obj\Debug\netcoreapp3.1\rock-paper-scissors.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\rock-paper-scissors\obj\Debug\netcoreapp3.1\rock-paper-scissors.AssemblyInfo.cs
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\rock-paper-scissors\obj\Debug\netcoreapp3.1\rock-paper-scissors.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\rock-paper-scissors\obj\Debug\netcoreapp3.1\rock-paper-scissors.dll
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\rock-paper-scissors\obj\Debug\netcoreapp3.1\rock-paper-scissors.pdb
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\rock-paper-scissors\obj\Debug\netcoreapp3.1\rock-paper-scissors.genruntimeconfig.cache

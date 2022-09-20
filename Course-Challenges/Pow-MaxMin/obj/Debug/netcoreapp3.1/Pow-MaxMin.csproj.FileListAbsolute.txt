@@ -1,0 +1,13 @@
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Pow-MaxMin\bin\Debug\netcoreapp3.1\Pow-MaxMin.exe
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Pow-MaxMin\bin\Debug\netcoreapp3.1\Pow-MaxMin.deps.json
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Pow-MaxMin\bin\Debug\netcoreapp3.1\Pow-MaxMin.runtimeconfig.json
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Pow-MaxMin\bin\Debug\netcoreapp3.1\Pow-MaxMin.runtimeconfig.dev.json
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Pow-MaxMin\bin\Debug\netcoreapp3.1\Pow-MaxMin.dll
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Pow-MaxMin\bin\Debug\netcoreapp3.1\Pow-MaxMin.pdb
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Pow-MaxMin\obj\Debug\netcoreapp3.1\Pow-MaxMin.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Pow-MaxMin\obj\Debug\netcoreapp3.1\Pow-MaxMin.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Pow-MaxMin\obj\Debug\netcoreapp3.1\Pow-MaxMin.AssemblyInfo.cs
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Pow-MaxMin\obj\Debug\netcoreapp3.1\Pow-MaxMin.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Pow-MaxMin\obj\Debug\netcoreapp3.1\Pow-MaxMin.dll
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Pow-MaxMin\obj\Debug\netcoreapp3.1\Pow-MaxMin.pdb
+C:\Users\asus\Desktop\C-Sharp-Practices\Course-Challenges\Pow-MaxMin\obj\Debug\netcoreapp3.1\Pow-MaxMin.genruntimeconfig.cache
