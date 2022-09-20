@@ -18,6 +18,7 @@ namespace first_reverse
 
         static void Main(string[] args)
         {
+            Console.WriteLine("Enter your favourite text : ");
             Console.WriteLine(FirstReverse(Console.ReadLine()));
         }
     }
