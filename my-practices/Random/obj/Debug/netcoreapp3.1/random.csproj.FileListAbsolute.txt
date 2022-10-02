@@ -11,3 +11,16 @@ C:\Users\asus\OneDrive\Desktop\CSharp_Exer\random\obj\Debug\netcoreapp3.1\random
 C:\Users\asus\OneDrive\Desktop\CSharp_Exer\random\obj\Debug\netcoreapp3.1\random.dll
 C:\Users\asus\OneDrive\Desktop\CSharp_Exer\random\obj\Debug\netcoreapp3.1\random.pdb
 C:\Users\asus\OneDrive\Desktop\CSharp_Exer\random\obj\Debug\netcoreapp3.1\random.genruntimeconfig.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Random\bin\Debug\netcoreapp3.1\random.exe
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Random\bin\Debug\netcoreapp3.1\random.deps.json
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Random\bin\Debug\netcoreapp3.1\random.runtimeconfig.json
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Random\bin\Debug\netcoreapp3.1\random.runtimeconfig.dev.json
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Random\bin\Debug\netcoreapp3.1\random.dll
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Random\bin\Debug\netcoreapp3.1\random.pdb
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Random\obj\Debug\netcoreapp3.1\random.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Random\obj\Debug\netcoreapp3.1\random.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Random\obj\Debug\netcoreapp3.1\random.AssemblyInfo.cs
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Random\obj\Debug\netcoreapp3.1\random.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Random\obj\Debug\netcoreapp3.1\random.dll
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Random\obj\Debug\netcoreapp3.1\random.pdb
+C:\Users\asus\Desktop\C-Sharp-Practices\my-practices\Random\obj\Debug\netcoreapp3.1\random.genruntimeconfig.cache

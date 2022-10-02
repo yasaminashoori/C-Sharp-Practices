@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ceRc8QHEZaYei6dONZnkAzfEv0Z28WSPW+nt25HbEBlJasfba5XyPBQFIPGmPwrY+O9xPwI//htiNFk8/4CGXg==",
+  "dgSpecHash": "HYjKvreO094nXXCm5cBLEsqCDB9IEaqJq+6QP9s0F3dur8oAaNDggL0ihQPSoyNhUBU8Z+BhY3Re2m4YXXOojw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\asus\\OneDrive\\Desktop\\CSharp_Exer\\random\\random.csproj",
+  "projectFilePath": "C:\\Users\\asus\\Desktop\\C-Sharp-Practices\\my-practices\\Random\\random.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

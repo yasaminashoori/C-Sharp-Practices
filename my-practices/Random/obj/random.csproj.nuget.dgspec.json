@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asus\\OneDrive\\Desktop\\CSharp_Exer\\random\\random.csproj": {}
+    "C:\\Users\\asus\\Desktop\\C-Sharp-Practices\\my-practices\\Random\\random.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asus\\OneDrive\\Desktop\\CSharp_Exer\\random\\random.csproj": {
+    "C:\\Users\\asus\\Desktop\\C-Sharp-Practices\\my-practices\\Random\\random.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\OneDrive\\Desktop\\CSharp_Exer\\random\\random.csproj",
+        "projectUniqueName": "C:\\Users\\asus\\Desktop\\C-Sharp-Practices\\my-practices\\Random\\random.csproj",
         "projectName": "random",
-        "projectPath": "C:\\Users\\asus\\OneDrive\\Desktop\\CSharp_Exer\\random\\random.csproj",
+        "projectPath": "C:\\Users\\asus\\Desktop\\C-Sharp-Practices\\my-practices\\Random\\random.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\OneDrive\\Desktop\\CSharp_Exer\\random\\obj\\",
+        "outputPath": "C:\\Users\\asus\\Desktop\\C-Sharp-Practices\\my-practices\\Random\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -50,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.421\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.422\\RuntimeIdentifierGraph.json"
         }
       }
     }
