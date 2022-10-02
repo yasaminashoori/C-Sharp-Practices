@@ -15,13 +15,14 @@ namespace Type_Casting
             string stringAge = "23";
             int age = Convert.ToInt32(stringAge);
             Console.WriteLine(age.GetType());
+            // Get Type is a built-in method
 
             double number = 13.3;
             bool status = Convert.ToBoolean(number);
             Console.WriteLine(status);
             // // we can convert string to boolean
 
-            // explicit type casting
+            // implicit type casting
             int first = 12;
             double second = 12.564;
             second = first;
@@ -35,6 +36,10 @@ namespace Type_Casting
             int x = 12;
             double y = 14.656;
             y = (int) x;
+
+            double notBool = 2.234;
+            bool boolValue = Convert.ToBoolean(notBool);
+            Console.WriteLine(boolValue);
 
         }
     }

@@ -11,10 +11,12 @@ namespace stringMethods
             var myString = "Yasamin Ashoori";
 
             // var result = myString.ToUpper();
+            // var result = myString.ToLower();
             // var result = myString.Replace("-", "@");
             // var result = myString.Insert(0, "@");
-            // var result = myString.Substring(0, 4);
-            // var result = myString.Substring(6);
+            // var result = myString.Substring(0, 6);
+            // var result = myString.Substring(7, 13);
+            // var result = myString.Substring(3);
             var result = myString.Length;
             Console.WriteLine(result);
             

@@ -7,6 +7,7 @@ namespace conditionalExpressions
         static void Main(string[] args)
         {
             // comparison operators
+            //  states the answer true or false 
 
             // var firstNumber = 25;
             // var secondNumber = 143; 

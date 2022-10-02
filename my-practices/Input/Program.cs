@@ -17,6 +17,7 @@ namespace Input
 
             Console.WriteLine("your result1 is " + result1 + "and result2 is " + result2);
 
+            Console.WriteLine("Enter your ID : ");
             string input = Console.ReadLine();
             double result3 = Convert.ToInt32(input);
 

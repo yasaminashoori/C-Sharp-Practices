@@ -13,10 +13,6 @@ namespace random
 
             double result1 = randomNumber.NextDouble();
             Console.WriteLine(result1);
-
-
-
-
         }
     }
 }

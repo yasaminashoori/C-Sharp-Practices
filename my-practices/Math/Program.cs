@@ -11,7 +11,7 @@ namespace math
             double result2 = Math.Pow(number2, 3);
             Console.WriteLine(result2);
 
-            double number = Math.Pow(3, 2);
+            double number = Math.Pow(number2, 2);
             Console.WriteLine(number);
             // double number means that the result of the Pow is double type although 3 is int
 
@@ -34,8 +34,8 @@ namespace math
             double result7 = Math.Max(number3, number2);
             double result8 = Math.Min(number3, number2);
 
-            
-            
+            double result9 = Math.PI;
+            // const of PI
         }
     }
 }

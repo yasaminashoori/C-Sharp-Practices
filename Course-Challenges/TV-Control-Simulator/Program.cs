@@ -6,52 +6,23 @@ namespace TV_Control_Simulator
     {
         static void Main(string[] args)
         {
-
-
-            var channelNumber = 1;
-            string selectedChannel = null;
-
+            bool favChannel = false;
+            int numberChannel = 0;
             do
             {
-                Console.WriteLine($"Do you like channel number {channelNumber++}? yes/no");
-                selectedChannel = Console.ReadLine();
-                // channelNumber++;
-            } while (selectedChannel == "no");
-
-
-            var favourite = selectedChannel == "yes" ? true : false;
-
-            if (favourite)
-            {
-                Console.WriteLine($"channel {channelNumber - 1} added to your favourite! enjoy ^-^");
-            }
-
-
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                Console.WriteLine($"You are in channel {++numberChannel}.\nDo you like it ? (Yes or No) ");
+                var userInputaAnswer = Console.ReadLine().ToUpper();
+                if (userInputaAnswer == "YES" || userInputaAnswer == "Y")
+                {
+                    favChannel = true;
+                    Console.WriteLine($"channel {numberChannel} is added to your favourite channel! \nEnjoy it  ^ --- ^ ");
+                    Environment.Exit(0);
+                }
+                else
+                {
+                    favChannel = false;
+                }
+            } while (favChannel == false);
         }
     }
 }
